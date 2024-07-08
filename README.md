@@ -13,7 +13,8 @@ Para poder estudiar como afecto la pandemia del COVID-19
 
 ## Insights
 ---
-[Informe](https://github.com/eremohn/LATAM_COVID-19/tree/main/Informe)  
+[Informe](https://github.com/eremohn/LATAM_COVID-19/blob/main/Informe) 
+
 
 
 ---
