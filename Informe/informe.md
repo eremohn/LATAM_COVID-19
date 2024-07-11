@@ -1,13 +1,13 @@
 
 
 ## Introducción
---
+---
 
 La pandemia de COVID-19 tuvo un impacto profundo y multifacético en todo el mundo, y los países de Latinoamérica no fueron la excepción. Esta región, caracterizada por su diversidad demográfica, socioeconómica y de infraestructura de salud, experimentó una variedad de respuestas y resultados ante la crisis sanitaria. El presente estudio se centra en analizar y comprender cómo el COVID-19 afectó a diferentes países de Latinoamérica, proporcionando una visión integral basada en datos.
 
 
 ## Metodología de trabajo
---
+---
 
 Para analizar el impacto del COVID-19 en los países de Latinoamérica, seguimos una metodología estructurada que incluye las siguientes etapas:
 
@@ -25,7 +25,7 @@ Para analizar el impacto del COVID-19 en los países de Latinoamérica, seguimos
 
 
 ## Análisis Exploratorio de Datos
---
+---
 
 ### Matriz de Correlación de Variables Numéricas Relacionadas con el Impacto del COVID-19 en Latinoamérica"
 
@@ -260,7 +260,7 @@ Esta desigualdad en la distribución de vacunas podría tener un impacto en el c
 ### GDP y GDP per Capita por País
 
 <p align="center">
-<img src="../Informe/GDP_y_GDP_per_Capita_por_Pais.png"  >
+<img src="../Informe/Graficos/GDP_y_GDP_per_Capita_por_Pais.png"  >
 </p>
 
 El gráfico muestra una relación compleja entre la capacidad económica (PIB y PIB per cápita) y la respuesta al COVID-19 en Latinoamérica.
@@ -284,8 +284,10 @@ Sin embargo, es necesario un análisis más profundo que considere los factores 
 ### Prevalencia de fumadores y diabetes por País
 
 <p align="center">
-<img src="../Informe/Prevalencia_de_fumadores_y_diabetes_por_Pais.png"  >
+<img src="../Informe/Graficos/Prevalencia_de_fumadores_y_diabetes_por_Pais.png"  >
 </p>
+
+
 
 El análisis de los gráficos y la información proporcionada permite concluir que el tabaquismo, la diabetes y el COVID-19 están estrechamente relacionados y han tenido un impacto significativo en la salud de la población latinoamericana.
 
@@ -309,7 +311,7 @@ Las interrupciones en los servicios de salud y el distanciamiento social han dif
 ### Tasas de Mortalidad por País
 
 <p align="center">
-<img src="../Informe/Tasas_de_Mortalidad_por_Pais.png"  >
+<img src="../Informe/Graficos/Tasas_de_Mortalidad_por_Pais.png"  >
 </p>
 
 El gráfico muestra una variación significativa en las tasas de mortalidad infantil, masculina adulta y femenina adulta por COVID-19 en diferentes países de Latinoamérica.
