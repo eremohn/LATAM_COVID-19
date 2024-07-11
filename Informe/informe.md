@@ -1,3 +1,7 @@
+<p align="center">
+<img src="../Informe/Imagenes/Banner_informe.jpg"  >
+</p>
+
 
 
 ## Introducción
