@@ -1,5 +1,5 @@
 <p align="center">
-<img src="Imagenes/portada.png"   >
+<img src="Informe/Imagenes/Banner_Proyecto.jpg"   >
 </p>
 
 ## Introducción
