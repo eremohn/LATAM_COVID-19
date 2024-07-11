@@ -10,6 +10,7 @@ El propósito de este proyecto es realizar un análisis exhaustivo de los datos 
 
 ## Finalidad
 La finalidad de este estudio es múltiple. En primer lugar, busca proporcionar una base de datos limpia y estructurada que pueda ser utilizada por otros investigadores y analistas interesados en el tema. En segundo lugar, se pretende ofrecer insights valiosos que puedan ayudar a mejorar la preparación y respuesta ante futuras pandemias en Latinoamérica. Finalmente, este proyecto servirá como una plataforma para demostrar habilidades en análisis de datos, contribuyendo al portafolio profesional del autor y fomentando la colaboración en la comunidad de ciencia de datos.
+
 ---
 
 ## Visualizaciones
