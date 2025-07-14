@@ -12,7 +12,7 @@ Análisis exploratorio de datos sobre la pandemia de COVID-19 en América Latina
 - [📁 Estructura del Repositorio](#-estructura-del-repositorio)
 - [📈 Visualizaciones Destacadas](#-visualizaciones-destacadas)
 - [🚀 Cómo ejecutar el proyecto](#-cómo-ejecutar-el-proyecto)
-- [Visualización del Informe en Power BI](#-visualizacion-del-informe-en-power-bi)
+- [📊 Visualización del Informe en Power BI](#-visualizacion-del-informe-en-power-bi)
 - [🧠 Posibles mejoras](#-posibles-mejoras)
 - [📥 Fuente de datos](#-fuente-de-datos)
 - [📜 Licencia](#-licencia)
