@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Imagenes/Banner_informe.jpg" alt="Banner del Informe">
+  <img src="./Imagenes/Banner_informe.png" alt="Banner del Informe">
 </p>
 
 # Informe: Impacto del COVID-19 en América Latina
