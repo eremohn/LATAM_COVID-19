@@ -3,12 +3,29 @@
 Análisis exploratorio de datos sobre la pandemia de COVID-19 en América Latina, enfocado en la evolución de casos, muertes, políticas sanitarias y vacunación entre países de la región.
 
 ---
+## 📚 Tabla de contenidos
+
+- [📌 Objetivo](#-objetivo)
+- [🌎 Alcance Geográfico](#-alcance-geográfico)
+- [📊 Datos Utilizados](#-datos-utilizados)
+- [🧰 Herramientas y Tecnologías](#-herramientas-y-tecnologías)
+- [📁 Estructura del Repositorio](#-estructura-del-repositorio)
+- [📈 Visualizaciones Destacadas](#-visualizaciones-destacadas)
+- [🚀 Cómo ejecutar el proyecto](#-cómo-ejecutar-el-proyecto)
+- [🧠 Posibles mejoras](#-posibles-mejoras)
+- [📥 Fuente de datos](#-fuente-de-datos)
+- [📜 Licencia](#-licencia)
+- [✒️ Autor](#-autor)
+
+---
 
 ## 📌 Objetivo
 
 Este proyecto tiene como propósito visualizar y entender el impacto del COVID-19 en los países latinoamericanos a través de gráficos y análisis comparativos. Se busca identificar patrones, diferencias regionales y relaciones entre indicadores clave.
 
 ---
+
+
 
 ## 🌎 Alcance Geográfico
 
@@ -100,6 +117,18 @@ cd LATAM_COVID-19
 - Automatizar limpieza de datos con notebooks reutilizables
 
 - Agregar visualizaciones geográficas
+
+---
+
+## 📥 Fuente de datos
+
+Debido al tamaño del archivo crudo (2.4 GB), no se encuentra almacenado directamente en el repositorio.
+
+Puedes acceder y descargar el dataset desde el siguiente enlace:
+
+- [📊 Dataset de COVID-19 (Google Drive)](https://drive.google.com/file/d/1asTXNEx_IGFDheRIDqPteII12Iz7Ghj2/view?usp=drive_link)
+
+Una vez descargado, colocá el archivo dentro del directorio `data/raw/`.
 
 ---
 
