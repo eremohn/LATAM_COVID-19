@@ -115,6 +115,20 @@ git clone https://github.com/eremohn/LATAM_COVID-19.git
 cd LATAM_COVID-19
 ```
 ---
+
+## 📊 Visualización del Informe en Power BI
+
+Además del informe detallado disponible en formato Markdown dentro de la carpeta [`informe/`](./informe), existe una visualización interactiva en Power BI que permitirá explorar de forma dinámica los principales indicadores relacionados con el impacto del COVID-19 en Latinoamérica.
+
+🔹 Esta visualización permitirá:
+- Filtrar por país y año.
+- Comparar tasas de mortalidad, vacunación, y casos confirmados.
+- Visualizar relaciones entre variables socioeconómicas, sanitarias y demográficas.
+
+📁 El archivo `.pbix` estara disponible en la carpeta [`powerbi/`](./powerbi), o será publicado a través de Power BI Service con un enlace directo aquí.
+
+
+---
 ## 🧠 Posibles mejoras
 - Implementar una app interactiva con Streamlit o Dash
 
