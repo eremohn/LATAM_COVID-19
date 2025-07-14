@@ -119,7 +119,7 @@ cd LATAM_COVID-19
 ```
 ---
 
-## 📊 Visualización del Informe en Power BI
+## 📊 Visualizacion del Informe en Power BI
 
 Además del informe detallado disponible en formato Markdown dentro de la carpeta [`informe/`](./informe), existe una visualización interactiva en Power BI que permitirá explorar de forma dinámica los principales indicadores relacionados con el impacto del COVID-19 en Latinoamérica.
 
