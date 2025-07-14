@@ -56,8 +56,7 @@ Los datasets se encuentran en la carpeta [`/data`](./data/), divididos entre dat
 ├── eda/ # Notebooks de análisis exploratorio por país o por indicador
 ├── etl/ # Notebooks de limpieza, transformación y carga de datos
 ├── figures/ # Gráficos exportados
-├── README.md # Este archivo
-└── requirements.txt # Librerías necesarias
+└── README.md # Este archivo
 ```
 
 
