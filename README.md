@@ -67,12 +67,19 @@ Los datasets se encuentran en la carpeta [`/data`](./data/), divididos entre dat
 ## 📁 Estructura del Repositorio
 
 ```
-├── data/ # Datos crudos y procesados
-│ └── processed/
-├── eda/ # Notebooks de análisis exploratorio por país o por indicador
-├── etl/ # Notebooks de limpieza, transformación y carga de datos
-├── figures/ # Gráficos exportados
-└── README.md # Este archivo
+LATAM_COVID-19/
+├── etl/
+│   └── etl.ipynb
+├── eda/
+│   └── eda.ipynb
+├── data/
+│   └── processed/
+├── informe/
+│   ├── README.md 
+│   ├── Imagenes/
+│   └── Graficos/
+└── README.md
+
 ```
 
 
