@@ -161,7 +161,7 @@ Este proyecto se publica bajo la licencia [MIT](LICENSE).
 
 ---
 
-## ✒️ Autor
+## ✒ Autor
 
 Felipe Varela – [GitHub](https://github.com/eremohn)  
 Estudiante de Ingeniería Aeroespacial | Analista de Datos | Teaching Assistant
