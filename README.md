@@ -1,31 +1,120 @@
-<p align="center">
-<img src="Informe/Imagenes/Banner_Proyecto.jpg" width="706" height="224""    >
-</p>
+# 🦠 LATAM_COVID-19
 
-## Introducción
-La pandemia de COVID-19 tubo un impacto significativo en todo el mundo, y los países de Latinoamérica no han sido la excepción. La variabilidad en las respuestas gubernamentales, la infraestructura de salud, y las condiciones socioeconómicas han dado lugar a una amplia gama de experiencias y resultados en la región. Este estudio busca analizar y entender cómo el COVID-19 afectó a diferentes países de Latinoamérica, proporcionando una visión integral basada en datos.
-
-## Propósito
-El propósito de este proyecto es realizar un análisis exhaustivo de los datos relacionados con la pandemia de COVID-19 en varios países de Latinoamérica. Utilizando técnicas de extracción, transformación y carga (ETL) y análisis exploratorio de datos (EDA), se pretende identificar patrones, tendencias y factores determinantes que han influido en la evolución de la pandemia en la región.
-
-## Finalidad
-La finalidad de este estudio es múltiple. En primer lugar, busca proporcionar una base de datos limpia y estructurada que pueda ser utilizada por otros investigadores y analistas interesados en el tema. En segundo lugar, se pretende ofrecer insights valiosos que puedan ayudar a mejorar la preparación y respuesta ante futuras pandemias en Latinoamérica. Finalmente, este proyecto servirá como una plataforma para demostrar habilidades en análisis de datos, contribuyendo al portafolio profesional del autor y fomentando la colaboración en la comunidad de ciencia de datos.
+Análisis exploratorio de datos sobre la pandemia de COVID-19 en América Latina, enfocado en la evolución de casos, muertes, políticas sanitarias y vacunación entre países de la región.
 
 ---
 
-## Visualizaciones
----
-Para poder estudiar como afecto la pandemia del COVID-19
+## 📌 Objetivo
 
-- [Visualización de datos]()
-
-
-## Insights
----
-[Informe](https://github.com/eremohn/LATAM_COVID-19/blob/main/Informe/informe.md) 
-
-
+Este proyecto tiene como propósito visualizar y entender el impacto del COVID-19 en los países latinoamericanos a través de gráficos y análisis comparativos. Se busca identificar patrones, diferencias regionales y relaciones entre indicadores clave.
 
 ---
-#### Fuentes de Datos:
-- [Dataset de COVID-19](https://drive.google.com/file/d/1asTXNEx_IGFDheRIDqPteII12Iz7Ghj2/view?usp=drive_link)
+
+## 🌎 Alcance Geográfico
+
+Se analizan principalmente los siguientes países de América Latina:
+
+- Argentina
+- Brasil
+- Chile
+- Colombia
+- México
+- Perú
+- Uruguay  
+
+---
+
+## 📊 Datos Utilizados
+
+Los datos provienen de fuentes públicas y confiables, incluyendo:
+
+- [Our World in Data](https://ourworldindata.org/)
+- [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)
+- [Ministerios de Salud locales]
+
+Los datasets se encuentran en la carpeta [`/data`](./data/), divididos entre datos crudos y datos procesados.
+
+---
+
+## 🧰 Herramientas y Tecnologías
+
+- Python 3.x
+- pandas, numpy
+- matplotlib, seaborn
+- Jupyter Notebook
+- Plotly (opcional)
+- Streamlit (opcional, para visualización interactiva)
+
+---
+
+## 📁 Estructura del Repositorio
+
+```
+├── data/ # Datos crudos y procesados
+│ ├── raw/
+│ └── processed/
+├── eda/ # Notebooks de análisis exploratorio por país o por indicador
+├── etl/ # Notebooks de limpieza, transformación y carga de datos
+├── figures/ # Gráficos exportados
+├── README.md # Este archivo
+└── requirements.txt # Librerías necesarias
+```
+
+
+---
+
+## 📈 Visualizaciones Destacadas
+
+Algunas de las visualizaciones generadas incluyen:
+
+- Evolución diaria de casos confirmados y muertes
+- Tasas de vacunación por país
+- Comparación regional del crecimiento de contagios
+- Mapas de calor y tendencias acumuladas
+
+> 🖼 Pronto se incluirán imágenes en esta sección
+
+---
+
+## 🚀 Cómo ejecutar el proyecto
+
+Este proyecto se ejecuta en notebooks de Jupyter, por lo que es recomendable contar con un entorno Python configurado con las siguientes librerías:
+
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scipy
+
+### 1. Clonar el repositorio
+
+```bash
+git clone https://github.com/eremohn/LATAM_COVID-19.git
+cd LATAM_COVID-19
+```
+---
+## 🧠 Posibles mejoras
+- Implementar una app interactiva con Streamlit o Dash
+
+- Incorporar modelos predictivos (SIR, ARIMA, Prophet)
+
+- Automatizar limpieza de datos con notebooks reutilizables
+
+- Agregar visualizaciones geográficas
+
+---
+
+## 📜 Licencia
+
+Este proyecto se publica bajo la licencia [MIT](LICENSE).
+
+---
+
+## ✒️ Autor
+
+Felipe Varela – [GitHub](https://github.com/eremohn)  
+Estudiante de Ingeniería Aeroespacial | Analista de Datos | Teaching Assistant
+
+---
+
+
