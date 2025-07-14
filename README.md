@@ -68,7 +68,6 @@ Los datasets se encuentran en la carpeta [`/data`](./data/), divididos entre dat
 
 ```
 ├── data/ # Datos crudos y procesados
-│ ├── raw/
 │ └── processed/
 ├── eda/ # Notebooks de análisis exploratorio por país o por indicador
 ├── etl/ # Notebooks de limpieza, transformación y carga de datos
