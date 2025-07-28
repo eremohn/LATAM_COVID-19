@@ -90,14 +90,17 @@ powerbi
 
 ## 📈 Visualizaciones Destacadas
 
-Algunas de las visualizaciones generadas incluyen:
+Este proyecto incluye un conjunto de visualizaciones interactivas desarrolladas en Power BI que permiten explorar la evolución del COVID-19 en América Latina desde múltiples dimensiones.
+
+Entre las más destacadas se encuentran:
 
 - Evolución diaria de casos confirmados y muertes
 - Tasas de vacunación por país
 - Comparación regional del crecimiento de contagios
 - Mapas de calor y tendencias acumuladas
 
-> 🖼 Pronto se incluirán imágenes en esta sección
+➡️ Podés explorarlas en detalle en el archivo `informe_covid_latam.pbix` y en el informe completo ubicado en la carpeta [`informe/`](./informe/).
+
 
 ---
 
